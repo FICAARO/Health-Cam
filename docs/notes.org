@@ -1,0 +1,9 @@
+*  important information for the work
+
+** datasets
+
+https://github.com/alzayats/fish-datasets
+
+** Similar projects
+
+https://github.com/DZPeru/fishv4
